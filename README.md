@@ -1,0 +1,2 @@
+# smec
+arduino programming
